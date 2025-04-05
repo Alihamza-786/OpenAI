@@ -1,3 +1,3 @@
 # OpenAI
-Resources:
+Acknowledgments:
 https://platform.openai.com/docs/guides
